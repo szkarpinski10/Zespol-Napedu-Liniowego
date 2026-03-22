@@ -1,1 +1,1 @@
-	# Zespół Napędu liniowego
+# Zespół Napędu liniowego
