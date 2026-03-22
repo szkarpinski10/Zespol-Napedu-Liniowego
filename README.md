@@ -1,1 +1,1 @@
-	# H1 Zespół Napędu liniowego
+	# Zespół Napędu liniowego
